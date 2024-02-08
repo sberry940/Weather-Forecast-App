@@ -11,8 +11,11 @@ body {
     margin: 0;
         
     background: #222;
-    }
     
+    font-family: 'Merriweather Sans', sans-serif;
+
+    }
+
   .card {
         background: #eaeaea;
         padding: 2em;
